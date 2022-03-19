@@ -12,7 +12,7 @@
   <h5> Github Trophy 🏆 </h5>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-       width="25%"
+       width="300px"
        src="https://github-profile-trophy.vercel.app/?username=StrategFirst&theme=onestar&row=3&column=3"
        alt="My trophy"
        />
