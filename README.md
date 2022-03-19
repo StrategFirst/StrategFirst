@@ -5,3 +5,16 @@
 - 🏀 During my free time, I also like to play basketball or mess up with some drone stuff 
 - 👥 I'm also part of an organization called [PC[i]](https://projetcohesion.info/) (Short for Projets et Cohésion en Informatique)
 - 💼 I also do the `Tutorat`, which is a course give by a student ( in their 3rd or 4th year ) to help first year students
+
+
+
+<div align="center">
+  <h5> Github Trophy 🏆 </h5>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+       width="25%"
+       src="https://github-profile-trophy.vercel.app/?username=StrategFirst&theme=onestar&row=3&column=3"
+       alt="My trophy"
+       />
+  </a>
+</div>
