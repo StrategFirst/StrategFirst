@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Mathieu TOULON (@StrategFirst or @StrategeFirst), French student in computer science
-- 👀 I’m interested in development especially in web development, but I remain curious and open-minded of any kind of computer science stuff
-- 🌱 I’m currently doing a master's degree in computer science at [Université d'Angers](https://www.univ-angers.fr/fr/index.html)
+- 👋 Hi, I’m Mathieu TOULON, French student in computer science
+- 👀 I’m interested in development and computer science research especially in IA, but I remain curious and open-minded in any computer science field
+- 🌱 I’m currently doing a master's degree in computer science at [Université d'Angers](https://www.univ-angers.fr/fr/index.html) 
+- 🪴 I'm also doing an internship at [Capgemini](https://www.capgemini.com/fr-fr/) in the [R&D department](https://www.capgemini.com/fr-fr/solutions/recherche-et-innovation/) for the future of IA
 - 📫 You can reach me via mail at mathieu.toulon@free.fr or via [LinkedIn](https://www.linkedin.com/in/mathieu-toulon/)
-- 🏀 During my free time, I also like to play basketball or mess up with some drone stuff 
-- 👥 I'm also part of an organization called [PC[i]](https://projetcohesion.info/) (Short for Projets et Cohésion en Informatique)
-- 💼 I also do the `Tutorat`, which is a course give by a student ( in their 3rd or 4th year ) to help first year students
+- 🏀 During my free time, I also like to play basketball fly with my drones or messing up with electronics
+- 👥 I also co-founded and be a major part of [PC[i]](https://projetcohesion.info/) (Short for Projets et Cohésion en Informatique) organization, which organise plenty of IRL events and computer science project for student to make university an better place each day
+- 💼 I also did gave course to first and second years's student at the université for 3 years.
 
 
 
